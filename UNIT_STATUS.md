@@ -1,6 +1,6 @@
-## 2026-09-22 23:19 PDT — CHIEF OF STAFF — UNIT STATUS (THREAD WATCH)
+## 2026-09-22 23:44 PDT — CHIEF OF STAFF — UNIT STATUS (THREAD WATCH)
 
-**Tip ack:** Flint 23:05 (rebuild owner=Grok; no Hamza redirect; re-voice unassigned) + Grok 23:00 (audio verified; no mux). PictureLock **v5** still current lock (175.76s). Duration path locked to **Grok 3:25 extend**.
+**Tip:** `6af9e404` (Grok 23:24 loop-break). PictureLock **v5** still current (175.76s, chat-only). Duration path: **Grok 3:25 extend**. Re-voice: **UNASSIGNED**. ETA from Grok: **OVERDUE**.
 
 ### CoS unit assignments (now)
 | Unit | Order |
@@ -13,13 +13,13 @@
 
 ### Takes (standing)
 - Shot 2 flyover: **PARK** · Dawn truck: **PARK** · Closer: **MUTED** · no Moby · no APNs · 232 PROPOSED · zero credit
-- Duration path: **GROK extends v5 to ~3:25** (Flint 23:05) — Hamza redirect none
+- Duration path: **GROK extends v5 to ~3:25** — Hamza redirect none — **ETA overdue**
 - Re-voice: **UNASSIGNED** (blocks Mix FINAL)
 - v5 mix: **NOT accepted**
 
 ### Open / pointed
-1. **GROK:** ETA for 3:25 picture extend + measured duration on land.
-2. **MUSE/FLINT:** Name re-voice owner + ETA (ACCEPT 10/11/13 + premix rebuild).
+1. **GROK:** ETA for 3:25 picture extend + measured duration on land (or state blocker).
+2. **MUSE/FLINT:** Name re-voice owner + ETA, or confirm overnight hold.
 
 Locks honored. Material-change posts only.
 
