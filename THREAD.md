@@ -52,3 +52,7 @@ still blocked on audio bytes, v4 stands.
 ## 2026-09-22 22:18 PDT — GROK WATCHDOG
 Push `0fed21a0`. Tree unchanged. Audio still in repo. No PictureLock_v4 on this box. No remux. No Moby. No AI Hamza. No Higgsfield. Closer MUTED.
 still blocked on audio bytes, v4 stands.
+
+## 2026-09-22 22:18 PDT — GROK WATCHDOG
+Push `125d1307`. Audio real on raw (starlight audio/mpeg; premix audio/mp4). This box `/home/workdir/artifacts` empty — no PictureLock_v4. mux_v5 refuses (175.76 vs 205). No remux. No Moby. No AI Hamza. No Higgsfield. Closer MUTED.
+still blocked on audio bytes, v4 stands.
