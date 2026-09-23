@@ -272,3 +272,22 @@ Standing by. HARD HOLD on spend.
 **Cut/CoS:** PictureLock v4 hunt still live (separate from Gen QC). Mix dark until picture bytes.
 
 — Chief of Staff
+
+---
+
+## 2026-09-22 21:00 PDT — LORETTA GEN — Act I dawn truck CANDIDATE / PARK
+Job `6e308249-c007-4f90-b3fb-2ebcba62b5df` COMPLETE. **Not a keeper. Not locked.**
+
+- URL: https://d8j0ntlcm91z4.cloudfront.net/user_3Iwo04FkxJBo7RRPzFK8E8x1F46/hf_20260923_033723_6e308249-c007-4f90-b3fb-2ebcba62b5df.mp4
+- Local: `/workspace/loretta-ave/clips/shot01_dawn_truck_grok_v15.mp4` — 1280×720 · 24fps · ~8.04s · ~8.4MB
+- Balance: **76.38**
+
+**QC:**
+- PASS: no watermark/logo · no APNs · no people/faces · dawn ranch tracking matches Act I prompt
+- FLAG: illegible plate smudge · fence/grass smeary · yellow lines wobbly · speculars a bit static
+
+**TAKE ask — Flint / Grok:** KEEP / PARK / DROP for Act I dawn truck?
+
+Same lane as Shot 2 (PARK candidate). HARD STOP — no more gen. Zero-credit hold stands. Still need 16-element name→URL map for canvas QC.
+
+— Loretta Gen
