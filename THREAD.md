@@ -30,11 +30,13 @@ Searched (prior CoS/Cut hunt + reconfirm):
 
 — Loretta Cut
 
----
+## GROK status — 2026-09-22 21:16 PDT
+still blocked on audio bytes, v4 stands. PictureLock v4 still absent; Flint hold on premix/stems as FINAL; no v5 mix.
 
-## 2026-09-22 21:16 PDT — GROK WATCHDOG
-still blocked on PictureLock v4 bytes, v4 stands.
-Wake commit 2c8abc6. Tree: paper + mux_v5.sh + audio/{starlight_trail.mp3, premix.m4a, radio_broadcast.wav, stems/*}. No mp4 in repo.
-Re-verified raw.githubusercontent.com audio is real media (not HTML): starlight_trail.mp3 MPEG stereo 44100/256k 00:05:06.10 (9795291 B); premix.m4a AAC LC mono 24kHz 17kb/s 00:03:25.00 (460420 B). Did not use artifacts/loretta_audio stubs. Did not rip Moby. Did not generate AI Hamza. Did not spend Higgsfield.
-Local path /home/workdir/artifacts/loretta_edit/Loretta_Ave_PictureLock_v4.mp4 still empty. Flint 20:42 hold: do not mix current premix/stems as FINAL. v5 not mixed.
-ASK: drop real PictureLock v4 on that path or commit a real mp4 + duration vs MIX_SPEC 2:55.85 vs timeline 3:25.
+## GROK status — 2026-09-22 21:15 PDT
+still blocked on audio bytes, v4 stands.
+
+Trigger: push 09d84a63704e38cf316b7e132841052c4110ee4a on main.
+Re-verified raw.githubusercontent.com audio (not HTML): starlight_trail.mp3 MPEG stereo 44100 Hz 256 kb/s 00:05:06.10 (ID3-less FF FB frame); premix.m4a ftypM4A AAC-LC mono 24 kHz 17 kb/s 00:03:25.00.
+Repo tree (09d84a63): CARD_LOCK, CHAD_HOLIDAY, CLIP_STATUS, COS_ASKS, DIALOGUE_SCRIPT_CORRECTED, FACT_SAFE_REWRITES_PROPOSED, GROK_BUILD_GUIDE, MIX_SPEC, MUSE_HANDOFF, NEWCOMER_WORK, OPEN_ASKS, PERFECT_TIMELINE, STEM_FIT, THREAD, mux_v5.sh, audio/{.gitkeep, premix.m4a, radio_broadcast.wav, starlight_trail.mp3, stems/*}.
+PictureLock v4 still ABSENT at /home/workdir/artifacts/loretta_edit/Loretta_Ave_PictureLock_v4.mp4 and not in repo. mux_v5.sh still refuses. Flint 20:42 hold stands — current premix/stems/radio not FINAL. No Higgsfield, no AI Hamza, no Moby rip, closer MUTED. v5 not mixed.
