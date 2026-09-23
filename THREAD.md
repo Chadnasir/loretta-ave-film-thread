@@ -46,7 +46,7 @@ still blocked on audio bytes, v4 stands.
 ---
 
 ## 2026-09-22 20:13 PDT — GROK — WATCHDOG (007c1a78)
-Trigger: push 007c1a788bd3faaef3098d1fbbe2282b7de9146f (chadnasir → main).
+Trigger: push 007c1a788bd3faaef3098d1fbbe2282b7de9146f (chadnasir ↔ main).
 Repo tree at main: DIALOGUE_SCRIPT_CORRECTED.md, GROK_BUILD_GUIDE.md, MIX_SPEC.md, PERFECT_TIMELINE.md, THREAD.md, audio/.gitkeep.
 PERFECT_TIMELINE.md present. Fact-safe only: 232 PROPOSED; no APNs on screen; closer MUTED; no invented phone/suite; banned phrases unused.
 audio/ exists but only .gitkeep. No audio/starlight_trail.mp3. No audio/premix.m4a.
@@ -57,7 +57,7 @@ still blocked on audio bytes, v4 stands.
 ---
 
 ## 2026-09-22 20:13 PDT — GROK — WATCHDOG (07d94e93)
-Trigger: push 07d94e932e3b5c91d46933b1556b376723ff73b2 (chadnasir → main).
+Trigger: push 07d94e932e3b5c91d46933b1556b376723ff73b2 (chadnasir ↔ main).
 Repo tree at main: DIALOGUE_SCRIPT_CORRECTED.md, GROK_BUILD_GUIDE.md, MIX_SPEC.md, PERFECT_TIMELINE.md, THREAD.md, audio/.gitkeep.
 PERFECT_TIMELINE.md present. Fact-safe only: 232 PROPOSED LOTS; 0 LORETTA AVE; 40.56 GROSS ACRES; closer MUTED; no APNs; no generated Hamza.
 audio/ is placeholder only. No starlight_trail.mp3. No premix.m4a. Did not mix v5. Did not use stubs. Did not rip Moby. Did not generate AI Hamza. Did not spend Higgsfield credits.
@@ -67,7 +67,7 @@ still blocked on audio bytes, v4 stands.
 ---
 
 ## 2026-09-22 20:14 PDT — GROK — WATCHDOG (fdb9289c)
-Trigger: push fdb9289c93e8b6e4c1623c23a2cf693829b1a371 (chadnasir → main).
+Trigger: push fdb9289c93e8b6e4c1623c23a2cf693829b1a371 (chadnasir ↔ main).
 Repo tree at main: DIALOGUE_SCRIPT_CORRECTED.md, GROK_BUILD_GUIDE.md, MIX_SPEC.md, PERFECT_TIMELINE.md, THREAD.md, audio/.gitkeep.
 No audio/starlight_trail.mp3. No audio/premix.m4a. Did not mix v5. Did not use stubs. Did not rip Moby. Did not generate AI Hamza. Did not spend Higgsfield credits.
 
@@ -76,7 +76,7 @@ still blocked on audio bytes, v4 stands.
 ---
 
 ## 2026-09-22 20:14 PDT — GROK — WATCHDOG (f1b2dde)
-Trigger: push f1b2dde058044fd576408d0ebc6e381870c4ebf0 (chadnasir → main).
+Trigger: push f1b2dde058044fd576408d0ebc6e381870c4ebf0 (chadnasir ↔ main).
 Repo tree at main: DIALOGUE_SCRIPT_CORRECTED.md, GROK_BUILD_GUIDE.md, MIX_SPEC.md, PERFECT_TIMELINE.md, THREAD.md, audio/.gitkeep.
 PERFECT_TIMELINE.md present. Fact-safe only: 232 PROPOSED lots; no APNs on screen; closer MUTED; no invented phone/suite; banned lines unused.
 audio/ only .gitkeep. No audio/starlight_trail.mp3. No audio/premix.m4a.
@@ -87,7 +87,7 @@ still blocked on audio bytes, v4 stands.
 ---
 
 ## 2026-09-22 20:16 PDT — GROK — WATCHDOG (6dec3e26)
-Trigger: push 6dec3e266237b483faca6159038e1d2ae8b9aa95 (chadnasir → main).
+Trigger: push 6dec3e266237b483faca6159038e1d2ae8b9aa95 (chadnasir ↔ main).
 Repo tree at main: DIALOGUE_SCRIPT_CORRECTED.md, GROK_BUILD_GUIDE.md, MIX_SPEC.md, PERFECT_TIMELINE.md, THREAD.md, audio/.gitkeep, audio/premix.m4a (460420), audio/radio_broadcast.wav (3675358), audio/starlight_trail.mp3 (9795291).
 Pulled raw.githubusercontent.com audio. Verified real media (not HTML):
 - starlight_trail.mp3 — MPEG audio, 44100 Hz stereo, ~5:06
@@ -99,6 +99,10 @@ Audio bytes are real. v5 still blocked on missing v4 picture lock in this worksp
 
 ---
 
-## 2026-09-22 20:17 PDT — GROK — WATCHDOG (f7169e99)
-Trigger: push f7169e99209d02b6e9760a142e8c2d4f9b4ff0b4 (https://github.com/Chadnasir/loretta-ave-film-thread/commit/f7169e99209d02b6e9760a142e8c2d4f9b4ff0b4).
-Same audio drop confirmed independently. starlight_trail.mp3 and premix.m4a are real audio. Picture lock v4 still absent from this mix sandbox. Did not mix v5. Did not use stubs. Did not rip Moby. Did not generate AI Hamza. Did not spend Higgsfield credits. v4 stands.
+## 2026-09-22 20:16 PDT — GROK — WATCHDOG (37060d5e)
+Trigger: push 37060d5e5282fb32c63d5305e7c3aceb1f10b1c0 (chadnasir ↔ main).
+Repo tree at main: DIALOGUE_SCRIPT_CORRECTED.md, GROK_BUILD_GUIDE.md, MIX_SPEC.md, PERFECT_TIMELINE.md, THREAD.md, audio/.gitkeep, audio/premix.m4a (460420), audio/radio_broadcast.wav (3675358), audio/starlight_trail.mp3 (9795291), audio/stems/.gitkeep.
+Audio files still present and previously verified as real media (not HTML). PERFECT_TIMELINE.md fact-safe only. Banned phrases unused.
+This workspace still has no /home/workdir/artifacts/loretta_edit/Loretta_Ave_PictureLock_v4.mp4. Did not mix v5. Did not use artifacts/loretta_audio stubs. Did not rip Moby. Did not generate AI Hamza. Did not spend Higgsfield credits.
+
+Audio bytes are real. v5 still blocked on missing v4 picture lock in this workspace. v4 stands.
