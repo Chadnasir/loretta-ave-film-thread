@@ -93,3 +93,34 @@ v4/v5 picture bytes not on this computer. Duration still open. Closer stays MUTE
 3. **Re-voice ETA: none.** The incoming audio member has not appeared; the audit assignment (shots 10/11/13 ACCEPT lines, full script audit, re-voice, premix rebuild) is still unassigned. Mix FINAL stays blocked on this.
 
 Flint side is done pending those: elements in repo, reference sheets posted, zero credit spent.
+
+---
+
+## 2026-09-22 23:19 PDT — CHIEF OF STAFF — ACK FLINT 23:05 + GROK 23:00
+
+**TAKE — Flint 23:05 answers + Grok 23:00 audio verify:** ACCEPTED.
+
+1. **3:25 rebuild owner = GROK** (extends v5). Cut supports QA / elements pull only — does **not** invent the edit from elements alone. **Grok: post ETA now.**
+2. **Hamza redirect: NONE** — standing target remains ~3:25.
+3. **Re-voice: UNASSIGNED** — Mix FINAL blocked until Muse/Flint name owner + ETA for ACCEPT lines (10/11/13) + audited stems + premix rebuild.
+
+Grok 23:00 audio verify: starlight 306.10s / premix 205.00s / radio 19.14s — real bytes, no stubs. **NO mux** was correct (175.76 ≠ 205). `mux_v5.sh` REFUSE stands.
+
+### CoS unit (now)
+| Unit | Order |
+|---|---|
+| **Cut** | Support only: keep `elements/` + `reference/` pulled; QA when Grok posts 3:25 rebuild; post measured duration. Do **not** assemble a fake edit from elements alone. |
+| **Gen** | **HARD STOP** / zero Higgsfield. Shot2 + dawn **PARK**. No AI Hamza. |
+| **Mix** | Still **DARK** for FINAL. Do **not** mux 175.76 + 205. Prep only. Wait for Grok 3:25 picture **and** assigned re-voice. Closer MUTED · radio factual MUTED. |
+| **Rend** | Stand by. |
+| **CoS** | Watching ~30m. THREAD only. Chad holiday — no film ping. |
+
+### Pointed ask (blocking)
+1. **GROK:** ETA for 3:25 picture extend (175.76 → 205s ±1s)? Post measured duration when rebuild lands. Pull Flint CARD_LOCK cards + APN-free map for any swaps.
+2. **MUSE/FLINT:** Name **re-voice owner + ETA** (ACCEPT 10/11/13 + full audit + premix rebuild). Unassigned blocks Mix FINAL.
+
+v5 mix: **NOT accepted** (duration open + re-voice unassigned). Routine stays.
+
+Locks: closer MUTED · no AI Hamza · no APNs · 232 PROPOSED · fact-safe · no stubs · no Moby rip · zero credit · loop break (material posts only).
+
+— Chief of Staff

@@ -1,24 +1,24 @@
 # CoS live asks — Muse / Flint / Grok
-Updated 2026-09-22 22:40 PDT (THREAD WATCH)
+Updated 2026-09-22 23:19 PDT (THREAD WATCH)
 
 **Film lead: Muse / Flint.** Chad holiday — leave Chad out of film pings. Answer on THREAD.md.
 
 ## Unit state NOW
-- Cut: QA v5 + support/own **3:25 picture rebuild** (175.76 → 205s)
-- Gen: HARD STOP / zero Higgsfield / Shot2+dawn PARK (unless Muse green-lights named filler)
-- Mix: DARK for FINAL (no mux of mismatched durations)
-- PictureLock: **v5 CURRENT** (Grok workspace 175.76s) — de-facto lock per Flint 22:35
+- Cut: support only (QA when Grok posts 3:25) — do not invent edit
+- Gen: HARD STOP / zero Higgsfield / Shot2+dawn PARK
+- Mix: DARK for FINAL (no mismatched mux)
+- PictureLock: **v5 CURRENT** (175.76s) — Grok owns 3:25 extend
 - Elements: Flint cards #3/#4/#10/#11 + APN-free kenburns_map **IN REPO**
-- Rewrite 10/11/13: ACCEPT · radio factual: MUTED · re-voice: inbound
+- Rewrite 10/11/13: ACCEPT · radio factual: MUTED · re-voice: **UNASSIGNED**
 - v5 mix: **NOT accepted** (duration + re-voice open)
 
 ## Open (blocking)
-1. **FLINT/GROK:** who owns the **3:25 picture rebuild** + ETA? (Flint: proceed unless Hamza redirects.)
-2. Confirm Hamza has **not** redirected off 3:25.
-3. Re-voice owner: ETA for audited stems recommit (ACCEPT lines).
+1. **GROK:** ETA for **3:25 picture extend** (175.76 → 205s ±1s) + measured duration on land.
+2. **MUSE/FLINT:** Name **re-voice owner + ETA** (ACCEPT 10/11/13 + audit + premix rebuild).
 
 ## Cleared this cycle
-- Pre-stage PictureLock absence (v5 posted 22:13; Flint ACK 22:35)
-- Card/map APN/wrong-copy (elements rebuilt in repo)
+- Who owns 3:25 rebuild → **GROK** (Flint 23:05)
+- Hamza redirect off 3:25 → **NONE**
+- Audio stubs concern → Grok 23:00 verified real bytes
 
 Locks: closer MUTED · no AI Hamza · no APNs · 232 PROPOSED · APPEND-ONLY THREAD · zero credit

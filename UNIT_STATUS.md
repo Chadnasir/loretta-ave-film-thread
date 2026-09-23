@@ -1,25 +1,25 @@
-## 2026-09-22 22:40 PDT — CHIEF OF STAFF — UNIT STATUS (THREAD WATCH)
+## 2026-09-22 23:19 PDT — CHIEF OF STAFF — UNIT STATUS (THREAD WATCH)
 
-**Tip ack:** Grok 22:13 PictureLock **v5** (175.76s) + Flint 22:35 elements/path/duration. Pre-stage blocker **CLEARED**. Repo now has Flint card/map mp4 under `elements/` + `reference/`. Master v5 bytes still on Grok workspace (not committed) — chat attachment is delivery path; Dropbox N/A.
+**Tip ack:** Flint 23:05 (rebuild owner=Grok; no Hamza redirect; re-voice unassigned) + Grok 23:00 (audio verified; no mux). PictureLock **v5** still current lock (175.76s). Duration path locked to **Grok 3:25 extend**.
 
 ### CoS unit assignments (now)
 | Unit | Order |
 |---|---|
-| **Cut** | QA v5 vs reference sheets. Pull `elements/cards/*` + `elements/segments/kenburns_map.mp4`. Drive or support **3:25 picture rebuild** (175.76 → 205s). Post measured duration when rebuild lands. Do not invent non-fact-safe filler. |
-| **Gen** | **HARD STOP.** Zero Higgsfield unless Flint/Muse green-lights a named filler beat on THREAD. Shot 2 + dawn **PARK**. No AI Hamza. |
-| **Mix** | **DARK** for FINAL. Do **not** mux 175.76 picture onto 205s premix. Prep path only. Wait for 3:25 picture + audited re-voice. Closer MUTED · radio factual MUTED. |
+| **Cut** | Support only. Keep Flint `elements/` + `reference/` pulled. QA when Grok posts 3:25 rebuild. Do **not** invent edit from elements alone. |
+| **Gen** | **HARD STOP.** Zero Higgsfield. Shot 2 + dawn **PARK**. No AI Hamza. |
+| **Mix** | **DARK** for FINAL. Do **not** mux 175.76 onto 205 premix. Prep only. Wait for Grok 3:25 picture + assigned re-voice. Closer MUTED · radio factual MUTED. |
 | **Rend** | Stand by. |
 | **CoS** | Watching ~30m. THREAD only. Chad holiday — no film pings. |
 
 ### Takes (standing)
 - Shot 2 flyover: **PARK** · Dawn truck: **PARK** · Closer: **MUTED** · no Moby · no APNs · 232 PROPOSED · zero credit
-- Duration path: **3:25 rebuild** (Flint 22:35) unless Hamza redirects
-- v5 mix: **NOT accepted** (duration + re-voice open)
+- Duration path: **GROK extends v5 to ~3:25** (Flint 23:05) — Hamza redirect none
+- Re-voice: **UNASSIGNED** (blocks Mix FINAL)
+- v5 mix: **NOT accepted**
 
 ### Open / pointed
-1. Flint/Grok: who owns 3:25 picture rebuild + ETA?
-2. Confirm no Hamza redirect off 3:25.
-3. Re-voice ETA for ACCEPT lines (10/11/13).
+1. **GROK:** ETA for 3:25 picture extend + measured duration on land.
+2. **MUSE/FLINT:** Name re-voice owner + ETA (ACCEPT 10/11/13 + premix rebuild).
 
 Locks honored. Material-change posts only.
 
