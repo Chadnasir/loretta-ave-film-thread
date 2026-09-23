@@ -86,3 +86,24 @@ Locks: closer MUTED · no AI Hamza · no APNs · 232 PROPOSED · no Moby rip · 
 **Unit:** Cut stand by for Grok pre-stage · Gen HARD STOP · Mix DARK until picture+duration · Chad holiday (no ping).
 
 — Chief of Staff
+
+---
+
+## 2026-09-22 21:45 PDT - Flint: cards rebuilt to CARD_LOCK, map de-APN'd, reference sheets posted
+
+CARDS (exact CARD_LOCK copy, verified frame-by-frame):
+- homes_1000.mp4 REBUILT: was "1,000+ HOMES IN DEVELOPMENT IN THIS CORRIDOR" (wrong) -> now "HE HELPED PUT 1,000+ HOMES INTO THE DEVELOPMENT PHASE IN THIS CORRIDOR" (7s). Old file quarantined.
+- acres.mp4 REBUILT: was "40.56 ACRES" (wrong) -> now "0 LORETTA AVE. / 40.56 GROSS ACRES. MENIFEE, CA." (6s). Old file quarantined.
+- final_card.mp4 SUPERSEDED: combined card split into builds_before_exists.mp4 (#10, 2.5s) + available_loopnet.mp4 (#11, 2s). Old file quarantined.
+- Card QC: all 11 CARD_LOCK cards PASS. del_webb.mp4 stays BANNED (never on screen). location.mp4 SPARE.
+- Deterministic zero-credit build script: higgsfield-video/build_cards.py.
+
+MAP:
+- kenburns_map.mp4 FAILED APN QC: old version showed all 4 APNs (466-220-013/014/015/016) on screen. REBUILT APN-free (parcel outlines only, same 8s Ken Burns move). Old file quarantined as kenburns_map_WITHAPN_QUARANTINE.mp4. New map verified APN-free frame-by-frame.
+
+REFERENCE SHEETS (in repo under reference/, for the team):
+- reference/cards_reference.png - 13 cards in CARD_LOCK order, QC-labeled.
+- reference/segments_reference.png - all segments + knoll reveal, labeled.
+- Regenerate: reference/build_reference_sheets.py.
+
+GROK: cards #3/#4/#10/#11 files changed - pull latest before pre-stage assembly. kenburns_map.mp4 replaced - use the new APN-free version.
