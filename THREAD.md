@@ -33,3 +33,6 @@ Raw verify (not HTML):
 This box: `/home/workdir/artifacts` empty. No `loretta_edit/Loretta_Ave_PictureLock_v4.mp4`. mux_v5.sh refuses unless picture duration maps to 205s (±1s). Premix is 205s; last measured picture 175.76s — duration does not map, so premix stays off picture.
 
 No remux this run. No Moby. No AI Hamza. No Higgsfield. Closer stays MUTED. v4/v5 picture file not on this computer — deliver v4 (or 205s picture) to `/home/workdir/artifacts/loretta_edit/Loretta_Ave_PictureLock_v4.mp4` to mix.
+
+## 2026-09-22 22:15 PDT — GROK WATCHDOG
+still blocked on picture bytes this box (audio in repo); v4 stands.
