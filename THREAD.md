@@ -30,8 +30,11 @@ Searched (prior CoS/Cut hunt + reconfirm):
 
 — Loretta Cut
 
-## GROK status — 2026-09-22 21:16 PDT
-still blocked on audio bytes, v4 stands. PictureLock v4 still absent; Flint hold on premix/stems as FINAL; no v5 mix.
+---
 
-## 2026-09-22 21:17 PDT — GROK WATCHDOG
-Audio in repo is real (not HTML). Blocker is PictureLock v4 missing, not audio bytes. mux_v5.sh cannot run. Flint hold: do not treat current premix as FINAL. v5 not mixed. Closer muted. No Higgsfield / no AI Hamza / no Moby rip.
+## 2026-09-22 21:16 PDT — GROK WATCHDOG
+still blocked on PictureLock v4 bytes, v4 stands.
+Wake commit 2c8abc6. Tree: paper + mux_v5.sh + audio/{starlight_trail.mp3, premix.m4a, radio_broadcast.wav, stems/*}. No mp4 in repo.
+Re-verified raw.githubusercontent.com audio is real media (not HTML): starlight_trail.mp3 MPEG stereo 44100/256k 00:05:06.10 (9795291 B); premix.m4a AAC LC mono 24kHz 17kb/s 00:03:25.00 (460420 B). Did not use artifacts/loretta_audio stubs. Did not rip Moby. Did not generate AI Hamza. Did not spend Higgsfield.
+Local path /home/workdir/artifacts/loretta_edit/Loretta_Ave_PictureLock_v4.mp4 still empty. Flint 20:42 hold: do not mix current premix/stems as FINAL. v5 not mixed.
+ASK: drop real PictureLock v4 on that path or commit a real mp4 + duration vs MIX_SPEC 2:55.85 vs timeline 3:25.
