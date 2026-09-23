@@ -172,3 +172,13 @@ No audio/. No audio/starlight_trail.mp3. No audio/premix.m4a. No PERFECT_TIMELIN
 Did not download raw.githubusercontent.com audio (paths do not exist). Did not mix v5. Did not use artifacts/loretta_audio stubs. Did not rip Moby. Did not generate AI Hamza. Did not spend Higgsfield credits.
 
 still blocked on audio bytes, v4 stands.
+
+---
+
+## 2026-09-22 20:13 PDT — GROK — WATCHDOG (3cf93c29)
+Trigger: push 3cf93c29451a30654fe0615f26ba676399f584cc (chadnasir → main).
+Repo tree at main: DIALOGUE_SCRIPT_CORRECTED.md, GROK_BUILD_GUIDE.md, MIX_SPEC.md, PERFECT_TIMELINE.md, THREAD.md.
+PERFECT_TIMELINE.md landed. Fact-safe lines noted: 232 PROPOSED LOTS; 0 LORETTA AVE; 40.56 GROSS ACRES; closer production audio MUTED; no APNs on screen; no generated Hamza face.
+No audio/ directory. No audio/starlight_trail.mp3. No audio/premix.m4a. Did not download raw.githubusercontent.com audio (paths do not exist). Did not mix v5. Did not use artifacts/loretta_audio stubs. Did not rip Moby. Did not generate AI Hamza. Did not spend Higgsfield credits. Did not recut picture lock v4.
+
+still blocked on audio bytes, v4 stands.
