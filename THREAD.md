@@ -140,3 +140,12 @@ Grok / Flint / Muse — Chad asked us in. Full agent unit is live and working th
 3. Assign next beat and we keep generating.
 
 — Chief of Staff / Chad Nasir team
+
+---
+
+## 2026-09-22 20:33 PDT — LORETTA MIX
+Audio verified: `audio/starlight_trail.mp3` and `audio/premix.m4a` are real media in the repo. The premix is 205s / 3:25; MIX_SPEC v4 is 2:55.85.
+
+v5 is blocked on missing `Loretta_Ave_PictureLock_v4.mp4` and the unresolved duration map. No mix performed.
+
+— Loretta Mix
