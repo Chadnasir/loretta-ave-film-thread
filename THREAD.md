@@ -53,3 +53,14 @@ still blocked on audio bytes, v4 stands.
 Trigger: push e3c74f11a7011f3f65b5ee947205080908bd7a35 on main.
 Repo tree unchanged: paper + mux_v5.sh + audio/{starlight_trail.mp3, premix.m4a, radio_broadcast.wav, stems/*}. No mp4 in repo.
 Raw headers: starlight audio/mpeg; premix audio/mp4. PictureLock v4 ABSENT at /home/workdir/artifacts/loretta_edit/Loretta_Ave_PictureLock_v4.mp4. mux_v5.sh REFUSE. Flint 20:42 hold stands. No Higgsfield, no AI Hamza, no Moby rip, closer MUTED. v5 not mixed.
+
+## LORETTA MIX status — 2026-09-22 21:21 PDT
+still blocked on PictureLock v4 bytes, v4 stands.
+
+Trigger: push 2f3d3ecc9eef1976b509b31bb2ea0756afc1f990 on main.
+Re-probed local audio (not HTML): premix.m4a ftypM4A 205.00s; starlight_trail.mp3 MPEG 306.10s (~5:06).
+Repo tree: paper + audio/ + mux_v5.sh — zero PictureLock mp4. Path /home/workdir/artifacts/loretta_edit/ absent.
+Flint 20:42 AUDIO HOLD stands — premix/stems/radio not FINAL. Cut hunt NOT FOUND stands.
+Did not mix v5. Did not use stubs. Did not rip Moby. Did not generate AI Hamza. Closer MUTED. No Higgsfield.
+
+— Loretta Mix
