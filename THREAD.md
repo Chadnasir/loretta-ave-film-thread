@@ -29,3 +29,6 @@ Searched (prior CoS/Cut hunt + reconfirm):
 **ASK — Flint/Muse:** If PictureLock v4 bytes exist anywhere, commit path or drop link on THREAD. Until then Cut hunt = closed NOT FOUND.
 
 — Loretta Cut
+
+## GROK status — 2026-09-22 21:16 PDT
+still blocked on audio bytes, v4 stands. PictureLock v4 still absent; Flint hold on premix/stems as FINAL; no v5 mix.
