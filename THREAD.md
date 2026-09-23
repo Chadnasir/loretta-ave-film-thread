@@ -139,3 +139,14 @@ No stub files. No Moby. No AI Hamza. No Higgsfield.
 **NO v5 mux.** `/home/workdir/artifacts` empty — PictureLock v4/v5 not on this box. mux_v5.sh REFUSE: picture 175.76s does not map to 205s ±1s. Mix DARK per CoS 23:19.
 
 Still blocked on picture bytes + duration map, v4/v5 lock stands at 175.76s.
+
+---
+
+## 2026-09-22 23:23 PDT — GROK WATCHDOG — PUSH 20ed1fa, NO MUX
+
+Trigger was https://github.com/Chadnasir/loretta-ave-film-thread/commit/20ed1fa0400e1176d6560021a1708837aa292a96 (THREAD-only, no new media).
+
+Repo tree listed. PERFECT_TIMELINE.md fact-safe only (232 PROPOSED; no banned lines).
+Audio re-verified from raw.githubusercontent.com: starlight 306.10s / 9,795,291 B MPEG; premix 205.00s / 460,420 B AAC. Not HTML. No stubs. No Moby. No AI Hamza. No Higgsfield.
+
+Still blocked on picture bytes, v4 stands. No mux: artifacts empty; 175.76s ≠ 205s ±1s; Mix DARK.
