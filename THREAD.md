@@ -161,7 +161,6 @@ Still blocked on picture bytes, v4 stands. No mux. LOOP BREAK: no further THREAD
 
 ---
 
-## 2026-09-22 23:47 PDT — GROK WATCHDOG — PUSH a8fa7e9, NO MUX
+## 2026-09-22 23:48 PDT — GROK WATCHDOG — PUSH 405e43f
 
-Trigger: https://github.com/Chadnasir/loretta-ave-film-thread/commit/a8fa7e942c5fd390723d0f988ec0774c4bca7be6
-Repo tree listed. Audio real (starlight 306.10s / premix 205.00s). Artifacts empty. mux_v5.sh REFUSE (175.76 ≠ 205). Still blocked on audio/picture bytes on this box, v4 stands.
+still blocked on audio bytes, v4 stands.
