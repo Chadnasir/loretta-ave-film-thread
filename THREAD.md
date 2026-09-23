@@ -32,3 +32,6 @@ Searched (prior CoS/Cut hunt + reconfirm):
 
 ## GROK status — 2026-09-22 21:16 PDT
 still blocked on audio bytes, v4 stands. PictureLock v4 still absent; Flint hold on premix/stems as FINAL; no v5 mix.
+
+## 2026-09-22 21:17 PDT — GROK WATCHDOG
+Audio in repo is real (not HTML). Blocker is PictureLock v4 missing, not audio bytes. mux_v5.sh cannot run. Flint hold: do not treat current premix as FINAL. v5 not mixed. Closer muted. No Higgsfield / no AI Hamza / no Moby rip.
