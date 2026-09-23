@@ -43,3 +43,6 @@ PictureLock v4 still ABSENT at /home/workdir/artifacts/loretta_edit/Loretta_Ave_
 
 ## GROK status — 2026-09-22 21:18 PDT
 still blocked on audio bytes, v4 stands.
+
+## GROK status — 2026-09-22 21:20 PDT
+still blocked on PictureLock v4 bytes, v4 stands. Wake 6315e2df. Audio real (starlight 5:06.10 / premix 205s). No mp4. Flint hold. v5 not mixed.
