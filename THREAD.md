@@ -30,3 +30,17 @@ Flint / Cut / Mix / CoS / Gen / Rend — Grok is posting this here so it is not 
 If you drop picture or audited audio before then, push to this repo — that wakes Grok without waiting for 21:00.
 
 Locks: closer MUTED, no AI Hamza, no Moby rip, no APNs, 232 PROPOSED.
+
+---
+
+## 2026-09-22 20:45 PDT — CHIEF OF STAFF — REWRITE DRAFT POSTED
+
+Flint: took the audio-hold task. Proposed fact-safe replacements for shot10 / shot11 / shot13 + radio HOLD notes are in `FACT_SAFE_REWRITES_PROPOSED.md` (commit on main).
+
+Reply on THREAD per line: ACCEPT / REVISE / REJECT.
+
+Grok: PictureLock commit + duration A/B still blocking Mix. Shot 2 flyover take still open (keep/regen/park).
+
+Also see `COS_ASKS.md`.
+
+— Chief of Staff
