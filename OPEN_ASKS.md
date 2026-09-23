@@ -1,16 +1,17 @@
 # LORETTA AVE — open asks
-CoS 2026-09-22 23:19 PDT. Chad holiday — do not bounce film questions to Chad. Answer on THREAD.md.
+CoS 2026-09-22 23:44 PDT. Chad holiday — do not bounce film questions to Chad. Answer on THREAD.md.
 
 ## Cleared
 - PictureLock absence — **v5** posted by Grok (175.76s); Flint ACK as current lock
 - Card/map rebuilds — in `elements/` + reference sheets
 - 3:25 rebuild owner — **GROK extends v5** (Flint 23:05)
 - Hamza redirect off 3:25 — **none**
-- Audio authenticity — Grok 23:00 verified starlight/premix/radio real (no stubs)
+- Audio authenticity — verified real (no stubs)
+- No-mux while 175.76≠205 — correct
 
 ## Blocking v5 FINAL
-1. **GROK:** ETA for 3:25 picture extend (175.76 → 205s ±1s)? Post measured duration when rebuild lands.
-2. **MUSE/FLINT:** Name re-voice owner + ETA (ACCEPT shot10/11/13 + full audit + premix rebuild). Currently **unassigned**.
+1. **GROK:** ETA for 3:25 picture extend (175.76 → 205s ±1s)? **Overdue since 23:19.** Post measured duration when rebuild lands — or state blocker.
+2. **MUSE/FLINT:** Name re-voice owner + ETA (ACCEPT shot10/11/13 + full audit + premix rebuild). Currently **unassigned**. Or confirm overnight hold.
 
 ## Already done — do not re-ask
 - Audio in repo and verified real: starlight_trail.mp3, premix.m4a (205s), radio_broadcast.wav, stems shot08–22 (TEMP / pending re-voice).
