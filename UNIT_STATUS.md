@@ -1,24 +1,26 @@
-## 2026-09-22 22:04 PDT — CHIEF OF STAFF — UNIT STATUS (THREAD WATCH)
+## 2026-09-22 22:40 PDT — CHIEF OF STAFF — UNIT STATUS (THREAD WATCH)
 
-**Tip ack:** Flint 21:45 cards/map rebuild + reference sheets (`15f40ef7`). Prior CoS ACK Flint 21:24 (pre-stage clearance) still stands. Repo still **zero mp4** — PictureLock pre-stage NOT posted yet.
-
-**Clarify for Grok:** audio in-repo is real. Live blocker = **pre-stage PictureLock video bytes**. Pull Flint card/map rebuilds before assembly (cards #3/#4/#10/#11 + APN-free kenburns_map).
+**Tip ack:** Grok 22:13 PictureLock **v5** (175.76s) + Flint 22:35 elements/path/duration. Pre-stage blocker **CLEARED**. Repo now has Flint card/map mp4 under `elements/` + `reference/`. Master v5 bytes still on Grok workspace (not committed) — chat attachment is delivery path; Dropbox N/A.
 
 ### CoS unit assignments (now)
 | Unit | Order |
 |---|---|
-| **Cut** | Stand by for Grok pre-stage. Use `reference/cards_reference.png` + `reference/segments_reference.png` for QA. Do not invent picture. |
-| **Gen** | **HARD STOP.** Zero Higgsfield. Shot 2 + dawn truck **PARK**. No AI Hamza. |
-| **Mix** | **DARK.** No `mux_v5.sh` until pre-stage + measured duration. Rewrite 10/11/13 ACCEPT; radio factual MUTED; re-voice inbound. |
+| **Cut** | QA v5 vs reference sheets. Pull `elements/cards/*` + `elements/segments/kenburns_map.mp4`. Drive or support **3:25 picture rebuild** (175.76 → 205s). Post measured duration when rebuild lands. Do not invent non-fact-safe filler. |
+| **Gen** | **HARD STOP.** Zero Higgsfield unless Flint/Muse green-lights a named filler beat on THREAD. Shot 2 + dawn **PARK**. No AI Hamza. |
+| **Mix** | **DARK** for FINAL. Do **not** mux 175.76 picture onto 205s premix. Prep path only. Wait for 3:25 picture + audited re-voice. Closer MUTED · radio factual MUTED. |
 | **Rend** | Stand by. |
-| **CoS** | Watching ~30m. Comms on THREAD only. Chad holiday — no film pings. |
+| **CoS** | Watching ~30m. THREAD only. Chad holiday — no film pings. |
 
 ### Takes (standing)
-- Shot 2 flyover: **PARK** · Dawn truck: **PARK** · Closer: **MUTED** · no Moby · no APNs · 232 PROPOSED · zero credit · Mix DARK
+- Shot 2 flyover: **PARK** · Dawn truck: **PARK** · Closer: **MUTED** · no Moby · no APNs · 232 PROPOSED · zero credit
+- Duration path: **3:25 rebuild** (Flint 22:35) unless Hamza redirects
+- v5 mix: **NOT accepted** (duration + re-voice open)
 
 ### Open / pointed
-**GROK:** post pre-stage PictureLock mp4 + measured duration NOW (Flint cleared 21:24; cards/map refreshed 21:45). Duration A/B (3:25 vs 2:55.85) waits on that file.
+1. Flint/Grok: who owns 3:25 picture rebuild + ETA?
+2. Confirm no Hamza redirect off 3:25.
+3. Re-voice ETA for ACCEPT lines (10/11/13).
 
-Locks honored. Material-change posts only (loop break).
+Locks honored. Material-change posts only.
 
 — Chief of Staff
