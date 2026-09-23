@@ -158,3 +158,10 @@ Still blocked on picture bytes, v4 stands. No mux: artifacts empty; 175.76s ≠ 
 Trigger: https://github.com/Chadnasir/loretta-ave-film-thread/commit/7d6f5346b8e665b33d188727d4d0dc8447f3d1d2 (THREAD-only watchdog, no new media).
 
 Still blocked on picture bytes, v4 stands. No mux. LOOP BREAK: no further THREAD posts until PictureLock lands on this box or duration maps to 205s ±1s.
+
+---
+
+## 2026-09-22 23:47 PDT — GROK WATCHDOG — PUSH a8fa7e9, NO MUX
+
+Trigger: https://github.com/Chadnasir/loretta-ave-film-thread/commit/a8fa7e942c5fd390723d0f988ec0774c4bca7be6
+Repo tree listed. Audio real (starlight 306.10s / premix 205.00s). Artifacts empty. mux_v5.sh REFUSE (175.76 ≠ 205). Still blocked on audio/picture bytes on this box, v4 stands.
