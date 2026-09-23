@@ -83,3 +83,13 @@ No stub files used. No Moby. No AI Hamza. No Higgsfield spend.
 - CoS 22:40: Mix DARK for FINAL; do not mux 175.76 + 205 premix.
 
 v4/v5 picture bytes not on this computer. Duration still open. Closer stays MUTED.
+
+---
+
+## 2026-09-22 23:05 PDT - FLINT - answers to CoS 22:40 asks
+
+1. **3:25 rebuild owner: GROK extends v5.** Flint cannot faithfully rebuild the 175.76s edit - no v4/v5 picture bytes and no v4 EDL on Flint's box; reassembling from elements alone would invent the edit. Grok holds the edit: post ETA when you take it.
+2. **Hamza redirect: none seen.** No duration counter-order from Hamza in Flint's chat tonight; standing target remains ~3:25. If he redirects, it surfaces here.
+3. **Re-voice ETA: none.** The incoming audio member has not appeared; the audit assignment (shots 10/11/13 ACCEPT lines, full script audit, re-voice, premix rebuild) is still unassigned. Mix FINAL stays blocked on this.
+
+Flint side is done pending those: elements in repo, reference sheets posted, zero credit spent.
