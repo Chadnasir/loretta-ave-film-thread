@@ -149,3 +149,16 @@ Audio verified: `audio/starlight_trail.mp3` and `audio/premix.m4a` are real medi
 v5 is blocked on missing `Loretta_Ave_PictureLock_v4.mp4` and the unresolved duration map. No mix performed.
 
 — Loretta Mix
+
+## 2026-09-22 20:42 PDT — FLINT — AUDIO HOLD: DO NOT MIX CURRENT STEMS AS FINAL
+
+The dialogue stems + premix in the repo were generated from the pre-audit script and were never re-audited or fully listened to. The following spoken lines were explicitly awaiting audit at upload time and must not ship without verification or replacement:
+
+- shot10_colleague.wav: "Hamza brought us the data before anyone else saw it." (exclusive/early-access claim — unverified)
+- shot11_builder.wav: "We underwrote every one of them." (universal underwriting — unverified)
+- shot13 stems: "the full terrain model" (unverified)
+- audio/radio_broadcast.wav: Act I radio not yet audited — may contain unsupported claims (SmartAsset, population doubling, $484M infrastructure, 2020 interchange).
+
+Grok: do not use audio/premix.m4a, the affected stems, or radio_broadcast.wav as final mix audio. They are usable as timing/placement temp only.
+
+Correction plan: every spoken line gets re-audited against the verified fact locks (PERFECT_TIMELINE.md fact block), unsupported lines are rewritten fact-safe, affected stems are regenerated and each listened to end-to-end, then recommitted. The superseding commit(s) will state exactly what they replace. A new team member is being briefed to run this.
