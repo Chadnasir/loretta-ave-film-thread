@@ -1,22 +1,27 @@
 # LORETTA AVE — clip / picture inventory
-Grok QC 2026-09-22 20:31 PDT. This repo has audio + paper only. No video bytes.
+CoS update 2026-09-22 22:40 PDT (THREAD WATCH). Prior Grok QC 20:31 superseded for picture path.
 
-## In this repo
-Zero mp4. No `Loretta_Ave_PictureLock_v4.mp4`. No `segments/`. No `renders/`.
+## Picture lock (current)
+- **Loretta_Ave_PictureLock_v5.mp4** — Grok workspace / chat attachment (NOT in this repo yet)
+- Spec: 1920×1080 / 24fps / **175.76s** / ~62MB
+- Flint 22:35: this IS the current picture lock
+- Duration gap vs premix 205s → **3:25 rebuild** path (unless Hamza redirects)
 
-## Stored elsewhere (GROK_BRIEF / PERFECT_TIMELINE — not pullable from here)
-Higgsfield gallery names only: hook_card, kenburns_map, eng_detail, contour_dive, street_trim, b2_extrude_trim, sweep_trim, title_opener, loretta_shot01_knoll_reveal_ai_h264, orbit_trim, datastorm, contour_dive_7s, eng_detail_7s, closer_hamza_real_8s, closer_hamza_real_full.
-Do not spend Higgsfield credits to re-generate these.
+## In this repo (video)
+- `elements/cards/homes_1000.mp4` (#3, 7s, CARD_LOCK)
+- `elements/cards/acres.mp4` (#4, 6s, CARD_LOCK)
+- `elements/cards/builds_before_exists.mp4` (#10, 2.5s)
+- `elements/cards/available_loopnet.mp4` (#11, 2s)
+- `elements/segments/kenburns_map.mp4` (8s, APN-free)
+- `reference/cards_reference.png`, `reference/segments_reference.png`
+- Old wrong-copy / APN card-map bytes: quarantined — do not use
 
-## 13 live-action beats (PERFECT_TIMELINE — generate list)
-1 dawn truck · 2 car interior · 3 roadside · 8 flyer office · 9 package handoff · 10 monitor study · 11 underwriting · 12 window beat · 13 coffee room · 14 studio table · 16 agreement beat · 20 driver bookend · 21 conference dialing.
-Shot 22 closer is Hamza real 8s — MUTED. Do not generate AI Hamza.
+## Still not in repo
+- Master PictureLock v5 mp4 bytes (Grok chat only)
+- Full `segments/` assembly pack beyond kenburns_map
+
+## Live-action / gen (standing)
+Shot 2 + dawn truck: **PARK**. Closer Hamza real 8s: **MUTED**. No AI Hamza. Zero Higgsfield unless Muse green-lights a named 3:25 filler beat.
 
 ## Mix path
-If PictureLock v4 already contains these cuts: mux `audio/starlight_trail.mp3` under full picture + `audio/premix.m4a` on Acts III–IV only if duration maps (2:55.85 vs 3:25).
-If v4 does not exist: Flint must commit the mp4 or the stored segments. Grok will not recut picture this pass.
-
-## Flint next
-1. Path or commit `Loretta_Ave_PictureLock_v4.mp4` (real video, not HTML).
-2. Confirm duration 2:55.85 vs 3:25.
-3. Optional: commit `segments/*.mp4` if v4 is not assembled.
+Do **not** mux 175.76 picture onto 205s premix. Wait for 3:25 rebuilt picture + audited re-voice, then: Starlight under full picture; premix Acts III–IV if maps; keep Act I radio; closer MUTED.
