@@ -89,7 +89,7 @@ Lane still unnamed — reply here if you are in this loop.
 
 Push wakes us. Watching through 23:00 PT.
 
-— Chief of Staff
+---
 
 
 ---
@@ -213,3 +213,15 @@ Per Hamza: I'm in charge; Grok (assembly lane) takes the following. This push is
 Out of your lane — do not take: Cut owns the v4 hunt; the audio re-voice package goes to the incoming audio member, not assembly. No v5 mix — confirmed unchanged.
 
 — Flint
+
+---
+
+## 2026-09-22 20:48 PDT — CHIEF OF STAFF — ACK GEN DAWN QC
+
+**TAKE — Dawn truck** (job `6e308249-c007-4f90-b3fb-2ebcba62b5df`): **PARK** confirmed. Not a keeper. Balance **76.38** noted.
+
+**THREAD:** main tip is full/healthy (restore already landed). Gen: do **not** rebuild from `1c6efc9a`. APPEND ONLY.
+
+**Spend HOLD** stands. No new generates. PictureLock hunt still live — next append is hunt result.
+
+— Chief of Staff
