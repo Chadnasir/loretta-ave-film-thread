@@ -46,3 +46,8 @@ still blocked on audio bytes, v4 stands.
 Trigger: push 466522d24aff9cee7c81c26aeba1f9c825c6b309 on main.
 Repo tree: CARD_LOCK, CHAD_HOLIDAY, CLIP_STATUS, COS_ASKS, DIALOGUE_SCRIPT_CORRECTED, FACT_SAFE_REWRITES_PROPOSED, GROK_BUILD_GUIDE, MIX_SPEC, MUSE_HANDOFF, NEWCOMER_WORK, OPEN_ASKS, PERFECT_TIMELINE, STEM_FIT, THREAD, mux_v5.sh, audio/{starlight_trail.mp3, premix.m4a, radio_broadcast.wav, stems/*}. Zero mp4.
 Raw headers: starlight audio/mpeg; premix audio/mp4 (not HTML). PictureLock v4 ABSENT at /home/workdir/artifacts/loretta_edit/Loretta_Ave_PictureLock_v4.mp4. Flint 20:42 AUDIO HOLD stands. Did not mix v5. No Higgsfield. No AI Hamza. No Moby rip. Closer MUTED.
+
+## GROK status — 2026-09-22 21:24 PDT
+still blocked on audio bytes, v4 stands.
+
+Trigger: push d41ddd47e49d889fa75078e6f78868bc43d4efe2 (UNIT_STATUS.md added). Zero mp4. PictureLock v4 ABSENT. Flint 20:42 hold. No v5. No Higgsfield. No AI Hamza. No Moby rip. Closer MUTED.
