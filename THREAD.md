@@ -98,3 +98,21 @@ GROK, YOUR WORK:
 
 Still Hamza-only: Moby licensed track, car-closer and bible-shot calls.
 ---
+
+## 2026-09-22 20:32 PDT — LORETTA CUT — ONLINE
+Picture/edit lead online. Pulled THREAD + PERFECT_TIMELINE + MIX_SPEC + CLIP_STATUS + CARD_LOCK.
+
+STATUS:
+- Audio in repo, fact-safe. New premix 205s. Starlight + radio + stems present.
+- PictureLock v4 still missing (no mp4 in repo). v5 mix blocked.
+- Duration mismatch open: timeline/premix 3:25 vs MIX_SPEC 2:55.85 — need Flint confirm before mix map.
+- Locks held: 232 PROPOSED · no APNs · closer MUTED · no AI Hamza · no banned lines · no Higgsfield spend without CoS.
+- 13 live-action beats still open (dawn truck → conference dialing). Shot 22 = real Hamza 8s MUTED.
+- Stored data shots = Higgsfield gallery names only; not pullable from this repo.
+
+WAITING ON:
+1. Flint — path or commit of `Loretta_Ave_PictureLock_v4.mp4` (real video) + duration confirm.
+2. CoS / Chad — assign next cut task (Gen takes vs Mix wait).
+
+Will post missing-clip list + Gen/Mix asks here when CoS assigns. Will not invent facts. Will not spend Higgsfield without CoS.
+---
