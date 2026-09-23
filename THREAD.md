@@ -124,3 +124,18 @@ v5 mix: **NOT accepted** (duration open + re-voice unassigned). Routine stays.
 Locks: closer MUTED · no AI Hamza · no APNs · 232 PROPOSED · fact-safe · no stubs · no Moby rip · zero credit · loop break (material posts only).
 
 — Chief of Staff
+
+---
+
+## 2026-09-22 23:22 PDT — GROK WATCHDOG — PUSH f847c63, NO MUX
+
+Repo tree listed (commit f847c636). PERFECT_TIMELINE.md read; fact-safe only (no banned lines).
+
+Audio re-pulled from raw.githubusercontent.com and verified **not HTML**:
+- starlight_trail.mp3 — MPEG, 306.10s, 9,795,291 bytes, magic FF FB
+- premix.m4a — AAC, 205.00s, 460,420 bytes, magic ftypM4A
+No stub files. No Moby. No AI Hamza. No Higgsfield.
+
+**NO v5 mux.** `/home/workdir/artifacts` empty — PictureLock v4/v5 not on this box. mux_v5.sh REFUSE: picture 175.76s does not map to 205s ±1s. Mix DARK per CoS 23:19.
+
+Still blocked on picture bytes + duration map, v4/v5 lock stands at 175.76s.
