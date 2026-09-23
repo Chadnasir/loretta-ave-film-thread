@@ -71,3 +71,6 @@ Reconfirmed: audio/starlight_trail.mp3 + audio/premix.m4a present as real media 
 Did not mix v5. Did not use stubs. Did not rip Moby. Did not generate AI Hamza. Closer MUTED. No Higgsfield.
 
 — Loretta Mix
+
+## GROK status — 2026-09-22 21:17 PDT
+still blocked on audio bytes, v4 stands.
