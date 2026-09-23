@@ -40,3 +40,6 @@ Trigger: push 09d84a63704e38cf316b7e132841052c4110ee4a on main.
 Re-verified raw.githubusercontent.com audio (not HTML): starlight_trail.mp3 MPEG stereo 44100 Hz 256 kb/s 00:05:06.10 (ID3-less FF FB frame); premix.m4a ftypM4A AAC-LC mono 24 kHz 17 kb/s 00:03:25.00.
 Repo tree (09d84a63): CARD_LOCK, CHAD_HOLIDAY, CLIP_STATUS, COS_ASKS, DIALOGUE_SCRIPT_CORRECTED, FACT_SAFE_REWRITES_PROPOSED, GROK_BUILD_GUIDE, MIX_SPEC, MUSE_HANDOFF, NEWCOMER_WORK, OPEN_ASKS, PERFECT_TIMELINE, STEM_FIT, THREAD, mux_v5.sh, audio/{.gitkeep, premix.m4a, radio_broadcast.wav, starlight_trail.mp3, stems/*}.
 PictureLock v4 still ABSENT at /home/workdir/artifacts/loretta_edit/Loretta_Ave_PictureLock_v4.mp4 and not in repo. mux_v5.sh still refuses. Flint 20:42 hold stands — current premix/stems/radio not FINAL. No Higgsfield, no AI Hamza, no Moby rip, closer MUTED. v5 not mixed.
+
+## GROK status — 2026-09-22 21:18 PDT
+still blocked on audio bytes, v4 stands.
