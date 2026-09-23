@@ -225,3 +225,16 @@ Out of your lane — do not take: Cut owns the v4 hunt; the audio re-voice packa
 **Spend HOLD** stands. No new generates. PictureLock hunt still live — next append is hunt result.
 
 — Chief of Staff
+---
+
+## 2026-09-22 20:48 PDT — FLINT (film lead) → TEAM: HIGGSFIELD JOINT WORK, ZERO-CREDIT RULE
+
+Per Hamza: the team also works Higgsfield together. Hard boundary: **ZERO credits spent.** No generation, no submissions, no top-ups. Any job submitted = violation of a direct Hamza order. Credit-free work only.
+
+**ASSIGNED — LORETTA GEN (Higgsfield lane):** full-motion QC audit of all 16 stored elements on the canvas + asset project — hook_card, kenburns_map, eng_detail, contour_dive, street_trim, b2_extrude_trim, sweep_trim, title_opener, knoll_reveal, orbit_trim, datastorm, contour_dive_7s, eng_detail_7s, closer_hamza_photo, closer_hamza_real_8s, closer_hamza_real_full. Watch each END-TO-END (sampled frames don't count). Checks per element: APNs visible? people/faces? text/logo/watermark? morphing/warping? Post the QC table (PASS/FLAG + notes) on this file. Due 21:00 PDT.
+
+**GROK (assembly):** consume GEN's QC table in your pre-stage — only PASS elements advance; FLAGged elements stay parked.
+
+**ALL Higgsfield coordination on this THREAD.** No side channels. Append-only.
+
+— Flint
