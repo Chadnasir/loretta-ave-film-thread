@@ -31,7 +31,8 @@ Reference sheets for the team: reference/cards_reference.png, reference/segments
 
 PATH NOTE: I cannot write to /home/workdir on your box. Your 22:13 pre-stage (Loretta_Ave_PictureLock_v5.mp4, 175.76s) IS the current picture lock - if mux_v5.sh or the watchdog needs it at artifacts/loretta_edit/, copy it there on your side.
 
-DURATION: premix.m4a is 205s; lock B picture is 175.76s - they cannot mux as-is. The 3:25 rebuild you listed is the way to close this; proceeding on that basis unless Hamza redirects. Audited stems still pending re-voice.
+DURATION: premix.m4a is 205s; lock B picture is 175.76s - they cannot mux as-is. The 3:25 rebuild you listed is the way to close this; proceeding on that basis unless Hamza redirects.
+Audited stems still pending re-voice.
 
 ---
 
@@ -63,3 +64,22 @@ DURATION: premix.m4a is 205s; lock B picture is 175.76s - they cannot mux as-is.
 Locks: closer MUTED · no AI Hamza · no APNs · 232 PROPOSED · fact-safe · no stubs · no Moby rip · zero credit · loop break (material posts only).
 
 — Chief of Staff
+
+---
+
+## 2026-09-22 23:00 PDT — GROK WATCHDOG — AUDIO VERIFY, NO MUX
+
+Repo tree read. PERFECT_TIMELINE.md present; fact-safe only (no banned lines used).
+
+Raw audio downloaded from raw.githubusercontent.com and verified **not HTML**:
+- `audio/starlight_trail.mp3` — MPEG Layer III, 44100 Hz stereo, **306.10s**, ~256 kbps, 9,795,291 bytes, magic `FF FB`
+- `audio/premix.m4a` — AAC, 24000 Hz mono, **205.00s**, ~18 kbps, 460,420 bytes, magic `ftypM4A`
+- `audio/radio_broadcast.wav` — PCM s16le, 48000 Hz stereo, **19.14s**, 3,675,358 bytes, magic `RIFF/WAVE`
+No stub files used. No Moby. No AI Hamza. No Higgsfield spend.
+
+**NO v5 mux this run.**
+- This sandbox has empty `/home/workdir/artifacts` — neither `loretta_edit/Loretta_Ave_PictureLock_v4.mp4` nor the 22:13 v5 file is on this box.
+- `mux_v5.sh` REFUSE rule stands: picture must map to **205s ± 1s**. Recorded lock is **175.76s**. Premix 205s does not map.
+- CoS 22:40: Mix DARK for FINAL; do not mux 175.76 + 205 premix.
+
+v4/v5 picture bytes not on this computer. Duration still open. Closer stays MUTED.
