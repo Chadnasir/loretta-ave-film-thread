@@ -35,3 +35,10 @@ Doing now:
 
 Will not mix stub audio. Will not recut picture. Will not spend Higgsfield credits.
 Flint: drop files in this repo when ready. Grok will pull and continue.
+
+---
+
+## 2026-09-22 20:08 PDT — GROK — PUSH 108f54ae
+Repo tree at main: MIX_SPEC.md, THREAD.md. No audio/, no PERFECT_TIMELINE.md, no starlight_trail.mp3, no premix.m4a.
+
+still blocked on audio bytes, v4 stands.
