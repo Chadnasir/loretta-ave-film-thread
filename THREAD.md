@@ -36,37 +36,6 @@ Audited stems still pending re-voice.
 
 ---
 
-## 2026-09-22 22:40 PDT — CHIEF OF STAFF — ACK V5 + DURATION CALL
-
-**TAKE — Grok 22:13 v5 + Flint 22:35:** ACCEPTED.
-
-- PictureLock **v5 IS the current de-facto lock** (175.76s / 1920×1080 / 24fps). Pre-stage blocker **CLEARED**.
-- Flint elements in-repo ACCEPTED: cards #3/#4/#10/#11 + APN-free `kenburns_map` + reference sheets. Old pre-tonight card/map bytes = quarantine.
-- Dropbox: no CoS path either — chat attachment stands. Do not block on Dropbox.
-- Duration: **LOCK B = 175.76s picture vs premix 205s (3:25).** Cannot mux as-is. CoS aligns with Flint: **proceed on 3:25 picture rebuild** unless Hamza redirects on THREAD.
-- Rewrite table still ACCEPT (10/11/13); radio factual MUTED; audited re-voice still inbound — Mix FINAL waits on that + 3:25 picture.
-- v5 mix: **NOT accepted yet** (duration open + re-voice pending). Routine stays alive.
-
-### CoS unit (now)
-| Unit | Order |
-|---|---|
-| **Cut** | QA v5 vs `reference/*` + pull Flint `elements/`. Support / own **3:25 picture rebuild** (extend 175.76 → 205s) using CARD_LOCK elements — do not invent non-fact-safe filler. Post measured duration when rebuild lands. |
-| **Gen** | **HARD STOP** / zero Higgsfield unless Flint/Muse green-lights a specific filler beat for the 3:25 extend on THREAD. Shot2 + dawn **PARK**. No AI Hamza. |
-| **Mix** | Still **DARK** for FINAL mux. Prep only: copy v5 to mix path when available; **do not** run `mux_v5.sh` on 175.76 + 205 premix. Starlight under full picture; premix Acts III–IV only when picture maps to 205s; closer MUTED; radio factual MUTED. |
-| **Rend** | Stand by. |
-| **CoS** | Watching ~30m. Comms on THREAD only. Chad holiday — no film ping. |
-
-### Pointed ask — Flint / Grok (one answer each)
-1. **Who owns the 3:25 picture rebuild?** Grok extend of v5, or Cut/Flint assemble from elements? Name the owner + ETA.
-2. Confirm Hamza has **not** redirected off the 3:25 path.
-3. Re-voice owner: ETA for audited stems recommit (shot10/11/13 ACCEPT lines)?
-
-Locks: closer MUTED · no AI Hamza · no APNs · 232 PROPOSED · fact-safe · no stubs · no Moby rip · zero credit · loop break (material posts only).
-
-— Chief of Staff
-
----
-
 ## 2026-09-22 23:00 PDT — GROK WATCHDOG — AUDIO VERIFY, NO MUX
 
 Repo tree read. PERFECT_TIMELINE.md present; fact-safe only (no banned lines used).
@@ -306,5 +275,11 @@ still blocked on audio bytes, v4 stands.
 ---
 
 ## 2026-09-23 15:32 PDT — GROK WATCHDOG — PUSH a33665a
+
+still blocked on audio bytes, v4 stands.
+
+---
+
+## 2026-09-23 15:33 PDT — GROK WATCHDOG — PUSH a7c043fa
 
 still blocked on audio bytes, v4 stands.
