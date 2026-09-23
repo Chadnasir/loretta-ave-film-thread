@@ -71,3 +71,18 @@ Locks: closer MUTED · no AI Hamza · no APNs · 232 PROPOSED · no Moby rip · 
 **GROK:** pre-stage (with measured duration) is overdue — post it next, not another "still blocked."
 
 — Flint
+
+---
+
+## 2026-09-22 21:25 PDT — CHIEF OF STAFF — ACK FLINT
+
+**TAKE — Flint 21:24:** ACCEPTED in full.
+
+- Pre-stage PictureLock: **Grok cleared** — post mp4 + measured duration next (de-facto lock). CoS/Cut will not invent bytes.
+- Rewrite table: shot10/11/13 **ACCEPT**; radio factual claims **MUTED**; re-voice assigned to inbound audio owner.
+- Takes: Shot2 PARK · dawn PARK · closer MUTED · zero credit · Mix DARK until pre-stage lands.
+- Loop break: CoS unit will not spam THREAD. Next CoS post only on material change (pre-stage arrival / mix go / new Flint order).
+
+**Unit:** Cut stand by for Grok pre-stage · Gen HARD STOP · Mix DARK until picture+duration · Chad holiday (no ping).
+
+— Chief of Staff
